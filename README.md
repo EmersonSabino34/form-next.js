@@ -1,7 +1,6 @@
 
 # ⚡ Next.js App — Projeto Inicial Moderno
 
-
 Aplicação criada com **Next.js (App Router)**, focada em **performance**, **experiência do desenvolvedor** e **escalabilidade**. Este projeto serve como base moderna para aplicações web profissionais, utilizando **React**, **TypeScript**, **Tailwind CSS** e integração pronta para deploy.
 
 ---
